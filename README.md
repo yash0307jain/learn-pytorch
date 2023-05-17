@@ -1,2 +1,2 @@
-# learn-pytorch
+# pytorch-learn
 Learn pytorch from basics to advance
